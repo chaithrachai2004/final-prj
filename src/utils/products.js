@@ -94,7 +94,7 @@ export const discoutProducts = [
     
     imgUrl: productImg01,
     category: "Poetry",
-    price: 193,
+    price: 5,
     discount:30,
     shortDesc:"Rupi Kaur, 2015 </br> Published by Andrews McMeel",
     description:"The book is divided into four chapters, and each chapter serves a different purpose. Deals with a different pain. Heals a different heartache. milk and honey takes readers through a journey of the most bitter moments in life and finds sweetness in them because there is sweetness everywhere if you are just willing to look.",
@@ -111,7 +111,7 @@ export const discoutProducts = [
     productName: "AByss of Bliss ",
     imgUrl: productImg02,
     category: "Poetry",
-    price: 253,
+    price: 3,
     discount:20,
     shortDesc:"Nerissamarie",
     description: "Abyss of Bliss is a poetry book exploring the purpose of life. This spellbinding poetry, goes beyond emotion, beyond form, beyond belief and explores the resounding truth of peace, love and wellbeing hidden in the heart. Beautiful soul healing love poems that reach into the depths of the self.Seek the beauty behind the veil. When the mind is silent, we discover divine love, our true nature. We are nothing more than beams of light floating through consciousness, projecting desires into the abyss. All the while forgetting we are pure, simple, humble, manifestations of bliss.",
@@ -132,7 +132,7 @@ export const discoutProducts = [
     productName: "Learning How to Fly",
     imgUrl: productImg08,
     category: "Novel",
-    price: 89,
+    price: 6,
     discount:15,
     shortDesc:
       "Author:A P J Abdul Kalam",
@@ -155,7 +155,7 @@ export const discoutProducts = [
     productName: "A Story of Struggle",
     imgUrl: productImg09,
     category: "Novel",
-    price: 112,
+    price: 10,
     discount:35,
     shortDesc:
       "Author:Ashok Kumawat.",
@@ -178,7 +178,7 @@ export const discoutProducts = [
     productName: "The Search for Treasure",
     imgUrl: phone03,
     category: "Fantasy",
-    price: 599,
+    price: 6,
     discount:10,
     shortDesc:
       "Author:Geronimo Stilton",
@@ -201,7 +201,7 @@ export const discoutProducts = [
     productName: " The Oath of the Vayuputras",
     imgUrl: phone04,
     category: "Fantasy",
-    price: 799,
+    price: 12,
     discount:5,
     shortDesc:
       "Author:Amish Tripathi",
@@ -228,7 +228,7 @@ export const products = [
     productName: "Milk and Honey",
     imgUrl: productImg01,
     category: "Poetry",
-    price: 193,
+    price: 5,
     shortDesc: " Author:Rupi Kaur, 2015   Published by Andrews McMeel",
     description: "The book is divided into four chapters, and each chapter serves a different purpose. Deals with a different pain. Heals a different heartache. milk and honey takes readers through a journey of the most bitter moments in life and finds sweetness in them because there is sweetness everywhere if you are just willing to look.",
     reviews: [
@@ -245,7 +245,7 @@ export const products = [
     productName: "AByss of Bliss ",
     imgUrl: productImg02,
     category: "Poetry",
-    price: 253,
+    price: 3,
     shortDesc:
       " Author:Nerissamarie",
     description:
@@ -268,7 +268,7 @@ export const products = [
     productName: "Trough the Heart's Eyes",
     imgUrl: productImg03,
     category: "Poetry",
-    price: 173,
+    price: 5,
     shortDesc:
       "Author:Alexandra Vasiliu",
     description:
@@ -290,7 +290,7 @@ export const products = [
     productName: " AByss of Bliss",
     imgUrl: productImg02,
     category: "Portry",
-    price: 253,
+    price: 3,
     shortDesc:
       "Author:Nerissamarie",
     description:
@@ -312,7 +312,7 @@ export const products = [
     productName: "Leaves You Full",
     imgUrl: productImg04,
     category: "Poetry",
-    price: 163,
+    price: 8,
     shortDesc:
       "Author:Vanessa Mahan.",
     description:
@@ -335,7 +335,7 @@ export const products = [
     productName: "Chinese Love Story:",
     imgUrl: productImg05,
     category: "poetry",
-    price: 163,
+    price: 9,
     shortDesc:
       "Author:Jane Portal",
     description:
@@ -358,7 +358,7 @@ export const products = [
     productName: "Indian Love Poetry",
     imgUrl: productImg06,
     category: "poetry",
-    price: 163,
+    price: 8,
     shortDesc:
       "Author:A.L Dallapiccola.",
     description:
@@ -380,7 +380,7 @@ export const products = [
     productName: "Bright Star",
     imgUrl: productImg07,
     category: "Poetry",
-    price: 99,
+    price: 7,
     shortDesc:
       "Author:Elizabeth Floyd.",
     description:
@@ -403,7 +403,7 @@ export const products = [
     productName: "You are Born to BLOSSOM",
     imgUrl: productImg11,
     category: "Novel",
-    price: 173,
+    price: 8,
     shortDesc:
       "Author:A P J Abdul Kalam",
     description:
@@ -426,7 +426,7 @@ export const products = [
     productName: "Learning How to Fly",
     imgUrl: productImg08,
     category: "Novel",
-    price: 89,
+    price: 6,
     shortDesc:
       "Author:A P J Abdul Kalam.",
     description:
@@ -449,7 +449,7 @@ export const products = [
     productName: "A Story of Struggle",
     imgUrl: productImg09,
     category: "Novel",
-    price: 112,
+    price: 10,
     shortDesc:
       "Author:Ashok Kumawat.",
     description:
@@ -472,7 +472,7 @@ export const products = [
     productName: " Children of Time",
     imgUrl: phone01,
     category: "Fantasy",
-    price: 799,
+    price: 7,
     shortDesc:
       "Author:Adrian Tchaikovsky",
     description:
@@ -494,7 +494,7 @@ export const products = [
     productName: "Belive in YourSelf",
     imgUrl: productImg10,
     category: "Novel",
-    price: 99,
+    price: 9,
     shortDesc:
       "Author:Dr Joseph Murphy.",
     description:
@@ -516,7 +516,7 @@ export const products = [
     productName: " The House in the Cerulean Sea",
     imgUrl: phone02,
     category: "Fantasy",
-    price: 799,
+    price: 7,
     shortDesc:
       "Author:T.J. Klune",
     description:
@@ -539,7 +539,7 @@ export const products = [
     productName: "The Search for Treasure",
     imgUrl: phone03,
     category: "Fantasy",
-    price: 599,
+    price: 6,
     shortDesc:
       "Author:Geronimo Stilton.",
     description:
@@ -562,7 +562,7 @@ export const products = [
     productName: "The Oath of the Vayuputras",
     imgUrl: phone04,
     category: "Fantasy",
-    price: 799,
+    price: 12,
     shortDesc:
       "Author:Amish Tripathi.",
     description:
@@ -585,7 +585,7 @@ export const products = [
     productName: "The Rise of Sivagami",
     imgUrl: phone05,
     category: "Fantasy",
-    price: 899,
+    price: 10,
     shortDesc:
       "Author:Anand Neelakantan.",
     description:
@@ -608,7 +608,7 @@ export const products = [
     productName: "Ignite Me",
     imgUrl: phone06,
     category: "Fantasy",
-    price: 699,
+    price: 11,
     shortDesc:
       "Author:Tahereh Mafi.",
     description:
@@ -631,7 +631,7 @@ export const products = [
     productName: "Complete History of The World",
     imgUrl: watch01,
     category: "Historical",
-    price: 299,
+    price: 8,
     shortDesc:
       "Author:Richard Overy",
     description:
@@ -654,7 +654,7 @@ export const products = [
     productName: "Why I Am an Atheist",
     imgUrl: watch02,
     category: "Historical",
-    price: 299,
+    price: 7,
     shortDesc:
       "Author:KUNAL KAUSHIK",
     description:
@@ -677,7 +677,7 @@ export const products = [
     productName: "The Complete Novels Of Sherlock Homles",
     imgUrl: watch03,
     category: "Historical",
-    price: 299,
+    price: 8,
     shortDesc:
       "Author:Arthur Conan Doyle",
     description:
@@ -700,7 +700,7 @@ export const products = [
     productName: "Relativity",
     imgUrl: watch04,
     category: "Historical",
-    price: 399,
+    price: 8,
     shortDesc:
       "Author: Albert Einstein",
     description:
@@ -723,7 +723,7 @@ export const products = [
     productName: "The Magic Of The Lost Temple",
     imgUrl: wireless01,
     category: "Fairy Tale",
-    price: 199,
+    price: 6,
     shortDesc:
       "Author:Sudha Murthy",
     description:
@@ -746,7 +746,7 @@ export const products = [
     productName: "Hansel and Gretel",
     imgUrl: wireless03,
     category: "Fairy Tale",
-    price: 199,
+    price: 8,
     shortDesc:
       "Author:  Eloise Wilkin",
     description:
@@ -768,7 +768,7 @@ export const products = [
     productName: "The Secret of Garden",
     imgUrl: wireless02,
     category: "Fairy Tale",
-    price: 169,
+    price: 6,
     shortDesc:
       "Author: Frances Hodgson Burnett",
     description:
@@ -790,7 +790,7 @@ export const products = [
     productName: "Beauty and The Beast",
     imgUrl: wireless04,
     category: "Fairy Tale",
-    price: 139,
+    price: 8,
     shortDesc:
       "Author:Bill Condon",
     description:

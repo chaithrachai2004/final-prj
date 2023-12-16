@@ -1,7 +1,7 @@
 # Book Store
 
 ## 📌 Live Demo
-https://vercel.com/chaithrachai2004s-projects/final-prj
+https://vercel.com/chaithrachai2004s-projects/final-project
 
 ## 😎 Features
 
@@ -25,7 +25,8 @@ From your command line, first clone this repo:
 
 ```
 # Clone this repository
-$ https://github.com/chaithrachai2004/final-prj
+ https://github.com/chaithrachai2004/final-project.git
+
 
 # Go into the repository
 $ cd Book-Ordering
